@@ -16,3 +16,6 @@ A simple web application that allows you to convert between different currencies
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
+
+
+![image](https://github.com/user-attachments/assets/7cceffea-e977-4873-8444-43dba025e16d)
